@@ -163,7 +163,7 @@ const expCards = [
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Waiter",
-    date: "June 2020 - December 2023",
+    date: "August 2024 - 3 November 2025",
     responsibilities: [
       "Led the development of Docker's web applications, focusing on scalability.",
       "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
