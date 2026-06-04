@@ -147,7 +147,7 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Andiko brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Andiko demonstrated excellent hospitality skills, professionalism, and dedication in serving guests. He consistently maintained a positive attitude, worked effectively with the team, and contributed to delivering a comfortable and memorable experience for our guests.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
     title: "Front Office",
@@ -159,27 +159,27 @@ const expCards = [
     ],
   },
   {
-    review: "Andiko contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Andiko showed strong commitment and responsibility in food and beverage service. His ability to work efficiently in a fast-paced environment, communicate effectively with guests, and maintain service quality made him a valuable member of the team.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Waiter",
     date: "August 2024 - 3 November 2025",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Prepared food and beverage service areas before events, including ensuring the cleanliness and proper arrangement of all equipment and supplies.",
+      "Collaborated with kitchen and logistics teams to ensure smooth and efficient event operations.",
+      "Provided excellent customer service by responding to guest requests and ensuring a positive dining experience throughout the event.",
     ],
   },
   {
-    review: "Andiko work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "Andiko consistently provided excellent guest service with professionalism and dedication. His positive attitude and teamwork contributed greatly to guest satisfaction.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
+    title: "Buffet Runner and Waiter",
+    date: "August 2025 - November 2025",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Assisted in setting up buffet stations and dining areas, ensuring all food, beverages, and service equipment were properly prepared and presented.",
+      "Coordinated with kitchen and service teams to ensure timely food replenishment, smooth event operations, and guest satisfaction.",
+      "Maintained excellent hospitality standards by ensuring guests received attentive, friendly, and professional service during events.",
     ],
   },
 ];
